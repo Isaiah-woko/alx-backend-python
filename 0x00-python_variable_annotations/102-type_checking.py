@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This module has a type-annotated function make_multiplier"""
+"""This module has a type-annotated function"""
 from typing import Tuple, List, Any
 
 
